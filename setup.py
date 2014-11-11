@@ -37,7 +37,7 @@ setup(
         'fanstatic',
         'setuptools',
         'js.angular',
-        'js.fullcalendar',
+        'js.fullcalendar >= 2.0',
         ],
     entry_points={
         'fanstatic.libraries': [
