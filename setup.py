@@ -41,7 +41,7 @@ setup(
         ],
     entry_points={
         'fanstatic.libraries': [
-            'angular-ui_ui-calendar = js.angular_ui_calendar:library',
+            'angular-ui-calendar = js.angular_ui_calendar:library',
             ],
         },
     )
